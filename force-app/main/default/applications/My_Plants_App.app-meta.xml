@@ -13,9 +13,6 @@
     <label>My Plants App</label>
     <navType>Standard</navType>
     <tabs>Species__c</tabs>
-    <tabs>Species_Explorer</tabs>
-    <tabs>Species_with_Plants</tabs>
-    <tabs>Plant__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>My_Plants_App_UtilityBar</utilityBar>
 </CustomApplication>

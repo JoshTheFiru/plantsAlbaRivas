@@ -1,0 +1,17 @@
+:host{      
+/* Selector CSS de Web Components, que permite referirse al host del Web Component. 
+El punto del DOM al cual el LWC está anclado, el padre del componente*/
+    width: 325px;
+    display: block;
+}
+
+p.description{
+    min-height: 60px;
+}
+
+img.specie{
+    height: 200px;
+    max-width: 250px;
+    border-radius: 1.5rem;
+    border: 1px solid rgb(221, 219, 218);
+}

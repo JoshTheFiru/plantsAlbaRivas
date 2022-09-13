@@ -1,5 +1,0 @@
-  SELECT Name, Acquisition_Date__c
-    FROM Plant__c
-   WHERE Acquisition_Date__c > 2021-01-01 
-ORDER BY Acquisition_Date__c
-   LIMIT 3
